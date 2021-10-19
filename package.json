@@ -1,0 +1,14 @@
+{
+  "name": "zadig",
+  "version": "1.0.0",
+  "description": "<p><a href=\"https://github.com/koderover/zadig-doc\" target=\"_blank\" rel=\"noopener noreferrer\"><img height=\"50\" src=\"https://docs.koderover.com/zadig/img/zadig.png\" alt=\"Zadig logo\"></a></p>",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
